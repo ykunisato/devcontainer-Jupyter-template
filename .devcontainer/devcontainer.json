@@ -1,0 +1,16 @@
+{
+	"image": "ykunisato/ccp-vs:latest-arm64",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"julialang.language-julia",
+				"knisterpeter.vscode-github",
+				"ms-python.debugpy",
+				"ms-python.python",
+				"ms-python.vscode-pylance",
+				"quarto.quarto",
+				"ms-vscode-remote.remote-containers"
+			]
+		}
+	}
+}
